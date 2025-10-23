@@ -1,6 +1,6 @@
-# Valdir B. Sales
+# Valdir Sales
 
-👋 Olá! Eu sou o Valdir B. Sales.  
+👋 Olá! Eu me chamo Valdir Sales.  
 💻 Estudante de Análise e Desenvolvimento de Sistemas. 
 🚀 Aprendendo e compartilhando conhecimento sobre programação  
 🎥 Canal no YouTube: [Programando com Valdir](https://www.youtube.com/@programandocomvaldir)  
